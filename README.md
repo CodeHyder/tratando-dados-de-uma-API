@@ -1,2 +1,2 @@
-# tratando-dados-de-uma-API
-projeto para estudo sobre tratamento de dados de uma API - Utilizamos a API: VIA CEP
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
